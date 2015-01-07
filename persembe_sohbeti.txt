@@ -1,3 +1,3 @@
-plaats: rhoon
-tijd: 14:00
-ondererp: borderloop
+Plaats: Utrecht
+Tijd: 16:30
+Onderwerp: Mobile Developer
